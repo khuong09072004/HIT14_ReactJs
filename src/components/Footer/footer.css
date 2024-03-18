@@ -1,0 +1,49 @@
+.footer1 a svg{
+    width: 20px;
+    height: 20px;
+}
+.footer p {
+    color: gray;
+    font-size: 10px;
+    font-weight: 400;
+    opacity: 0.8;
+}
+
+.footer {
+    display: flex;
+}
+.footer1{
+    flex: 30%;
+    margin-left: 40px;
+    
+}
+.footer2{
+    display: flex;
+    flex: 60%;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.footer1 p{
+    margin-top: 20px;
+    
+}
+.footer2 ul{
+    margin-top: 20px;
+    font-size: 13px;
+    
+}
+.footer1 .social-icons {
+    margin-top: 20px;
+    
+    
+}
+.social-icons a{
+    margin-right: 20px;
+}
+
+.footer2  li{
+    margin-top: 13px;
+    font-size: 13px;
+    
+}
